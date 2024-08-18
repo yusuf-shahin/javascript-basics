@@ -43,3 +43,8 @@ for (let i = 0; i < frutes.length; i++) {
 //* forEach loop
 // alphabet.forEach((e) => console.log(e));
 frutes.forEach((e) => console.log(e));
+
+
+//? What is the different between forEach and map ?
+
+//! https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/
